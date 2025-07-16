@@ -35,3 +35,7 @@ params:
       url: "https://matrix.to/#/@thisisyaash:fedora.im?web-instance[element.io]=chat.fedoraproject.org"
     - name:  "x"
       url: "https://x.com/thisisyaash"
+    - name:  "email"
+      url: "mailto:iamyaash@outlook.com"
+    - name:  "cv"
+      url: "docs/resume.pdf"
