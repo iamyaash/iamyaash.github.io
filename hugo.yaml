@@ -1,0 +1,37 @@
+baseURL: https://iamyaash.github.io/
+languageCode: en-us
+title: 
+theme: ["PaperMod"]
+
+params:
+  profileMode:
+    enabled: true
+    title: "Yashwanth Rathakrishnan"
+    subtitle: "Exploring, Contributing, and Advocating for Open Source"
+    imageUrl: "img/image.png" 
+    imageTitle: "Yashwanth Rathakrishnan" 
+    imageWidth: 150 
+    imageHeight: 150 
+    buttons:
+      - name: Blogpage
+        url: "https://iamyaash.github.io/blog/"
+      - name: Fedora
+        url: "https://iamyaash.github.io/fedora/"
+      - name: Stashed
+        url: "https://iamyaash.github.io/stashed/"
+      - name: Spells 🪄
+        url: "https://iamyaash.github.io/spells/"
+
+  socialIcons: # optional
+    - name: "Codeberg"
+      url: "https://codeberg.org/dovah-kiin"
+    - name: "GitHub"
+      url: "https://github.com/iamyaash"
+    - name: "GitLab"
+      url: "https://gitlab.com/iamyaash"
+    - name: "Linkedin"
+      url: "https://www.linkedin.com/in/iamyaash/"
+    - name: "Matrix"
+      url: "https://matrix.to/#/@thisisyaash:fedora.im?web-instance[element.io]=chat.fedoraproject.org"
+    - name:  "x"
+      url: "https://x.com/thisisyaash"
