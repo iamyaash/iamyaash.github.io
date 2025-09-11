@@ -38,4 +38,4 @@ params:
     - name:  "email"
       url: "mailto:iamyaash@outlook.com"
     - name:  "cv"
-      url: "docs/resume-latest.pdf"
+      url: "docs/resume-september.pdf"
