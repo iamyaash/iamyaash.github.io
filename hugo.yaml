@@ -1,6 +1,6 @@
 baseURL: https://iamyaash.github.io/
 languageCode: en-us
-title: 
+# title: Profile
 theme: ["PaperMod"]
 
 params:
