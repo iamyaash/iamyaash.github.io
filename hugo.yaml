@@ -14,12 +14,16 @@ params:
     imageHeight: 150 
     buttons:
       - name: Blogpage
+        tooltip: "Read my journey and lessons learned."
         url: "https://iamyaash.github.io/blog/"
       - name: Fedora
+        tooltip: "Fedora Project contributions and experiences."
         url: "https://iamyaash.github.io/fedora/"
       - name: Stashed
+        tooltip: "My experiments, insights, and notes."
         url: "https://iamyaash.github.io/stashed/"
-      - name: Spells 🪄
+      - name: Spellbook
+        tooltip: "A collection of scripts, tools, and notes"
         url: "https://iamyaash.github.io/spells/"
 
   socialIcons: # optional
