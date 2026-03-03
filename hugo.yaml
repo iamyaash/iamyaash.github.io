@@ -33,6 +33,8 @@ params:
       url: "https://github.com/iamyaash"
     - name: "GitLab"
       url: "https://gitlab.com/iamyaash"
+    - name: "Pinterest"
+      url: "https://www.pinterest.com/yaasharc/_created"
     - name: "Linkedin"
       url: "https://www.linkedin.com/in/iamyaash/"
     - name: "Matrix"
