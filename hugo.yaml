@@ -4,6 +4,7 @@ languageCode: en-us
 theme: ["PaperModPlus"]
 
 params:
+  footerName: "Yashwanth Rathakrishnan"
   profileMode:
     enabled: true
     title: "Yashwanth Rathakrishnan"
